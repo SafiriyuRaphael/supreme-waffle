@@ -5,7 +5,7 @@
       "items": [
         {
           "name": "Classic Cheeseburger",
-          "image": "https://example.com/cheeseburger.jpg",
+          "image": "classiccheeseburger",
           "price": 5.99,
           "description": "A timeless classic! Juicy beef patty, melted cheese, fresh lettuce, tomatoes, pickles, and our signature sauce on a toasted bun.",
           "on_sale": 4.99,
@@ -13,7 +13,7 @@
         },
         {
           "name": "BBQ Bacon Burger",
-          "image": "https://example.com/bbq-bacon-burger.jpg",
+          "image": "bbqbaconburger",
           "price": 6.99,
           "description": "Smoky BBQ sauce, crispy bacon, sharp cheddar, and a perfectly grilled beef patty. Messy but totally worth it!",
           "on_sale": null,
@@ -26,7 +26,7 @@
       "items": [
         {
           "name": "Mango Smoothie",
-          "image": "https://example.com/mango-smoothie.jpg",
+          "image": "mangosmoothie",
           "price": 4.49,
           "description": "Thick, creamy, and packed with real mangoes! Perfect for a refreshing tropical vibe.",
           "on_sale": 3.99,
@@ -39,7 +39,7 @@
       "items": [
         {
           "name": "Chai Latte",
-          "image": "https://example.com/chai-latte.jpg",
+          "image": "chaillatte",
           "price": 4.29,
           "description": "A cozy blend of black tea, warm spices, and frothy milk. Comfort in every sip!",
           "on_sale": null,
@@ -52,7 +52,7 @@
       "items": [
         {
           "name": "Shrimp Alfredo",
-          "image": "https://example.com/shrimp-alfredo.jpg",
+          "image": "shrimpalfredo",
           "price": 10.49,
           "description": "Rich, creamy Alfredo sauce with plump, juicy shrimp over fettuccine pasta. Absolutely indulgent!",
           "on_sale": 9.49,
@@ -65,7 +65,7 @@
       "items": [
         {
           "name": "BBQ Chicken Pizza",
-          "image": "https://example.com/bbq-chicken-pizza.jpg",
+          "image": "bbqchickenpizza",
           "price": 11.49,
           "description": "Tangy BBQ sauce, grilled chicken, red onions, and mozzarella cheese. A bold and tasty choice!",
           "on_sale": 10.49,
@@ -78,7 +78,7 @@
       "items": [
         {
           "name": "Chicken Tenders",
-          "image": "https://example.com/chicken-tenders.jpg",
+          "image": "chickentenders",
           "price": 6.49,
           "description": "Crispy, golden-fried chicken strips served with your choice of dipping sauce. Simple, crunchy, and addictive!",
           "on_sale": null,
@@ -86,7 +86,7 @@
         },
         {
           "name": "Loaded Fries",
-          "image": "https://example.com/loaded-fries.jpg",
+          "image": "loadedfries",
           "price": 5.99,
           "description": "A mountain of crispy fries topped with melted cheese, crispy bacon bits, and drizzled with ranch. Perfect for sharing... or not!",
           "on_sale": 4.99,
@@ -94,7 +94,7 @@
         },
         {
           "name": "Mozzarella Sticks",
-          "image": "https://example.com/mozzarella-sticks.jpg",
+          "image": "mozzarellasticks",
           "price": 4.99,
           "description": "Golden-fried mozzarella sticks with gooey cheese inside, served with marinara sauce. A must-have snack!",
           "on_sale": null,
@@ -102,7 +102,7 @@
         },
         {
           "name": "Onion Rings",
-          "image": "https://example.com/onion-rings.jpg",
+          "image": "onionrings",
           "price": 3.99,
           "description": "Thick-cut onion rings battered and fried to crispy perfection. Great as a side or just to snack on!",
           "on_sale": 2.99,
