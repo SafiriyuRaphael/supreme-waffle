@@ -39,7 +39,7 @@
       "items": [
         {
           "name": "Chai Latte",
-          "image": "chaillatte",
+          "image": "chailatte",
           "price": 4.29,
           "description": "A cozy blend of black tea, warm spices, and frothy milk. Comfort in every sip!",
           "on_sale": null,
