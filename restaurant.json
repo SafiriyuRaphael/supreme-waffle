@@ -10,7 +10,18 @@
           "description": "A timeless classic! Juicy beef patty, melted cheese, fresh lettuce, tomatoes, pickles, and our signature sauce on a toasted bun.",
           "on_sale": 4.99,
           "meal_type": "lunch",
-          "day": [1, 3, 5] 
+          "day": [1, 3, 5],
+          "ingredients": "Beef patty, Cheese, Lettuce, Tomato, Pickles, Bun, Signature sauce",
+          "nutrition": {
+            "energy_kj": 728,
+            "energy_kcal": 1054,
+            "fat_g": 68,
+            "carbs_g": 25,
+            "sugar_g": 48,
+            "protein_g": 548
+          },
+          "allergies": ["Egg", "Milk Protein", "Sesame", "Lactose", "Gluten", "Mustard"],
+          "extra": "The Classic Cheeseburger is a masterpiece of simplicity. A juicy beef patty, melted cheese, and crisp veggies are hugged by a soft, toasted bun. Our secret sauce adds the perfect tangy kick. It’s not just a burger—it’s a flavor explosion that’ll have you coming back for more. Perfect for lunch, dinner, or anytime you need a tasty pick-me-up."
         },
         {
           "name": "BBQ Bacon Burger",
@@ -19,7 +30,18 @@
           "description": "Smoky BBQ sauce, crispy bacon, sharp cheddar, and a perfectly grilled beef patty. Messy but totally worth it!",
           "on_sale": null,
           "meal_type": "dinner",
-          "day": [2, 4, 6]
+          "day": [2, 4, 6],
+          "ingredients": "Beef patty, BBQ sauce, Bacon, Cheddar cheese, Lettuce, Bun",
+          "nutrition": {
+            "energy_kj": 820,
+            "energy_kcal": 1200,
+            "fat_g": 75,
+            "carbs_g": 30,
+            "sugar_g": 22,
+            "protein_g": 50
+          },
+          "allergies": ["Egg", "Milk", "Gluten"],
+          "extra": "The BBQ Bacon Burger is a flavor-packed adventure. Smoky BBQ sauce, crispy bacon, and sharp cheddar cheese come together on a juicy beef patty. It’s messy, indulgent, and absolutely delicious. Perfect for when you’re craving something bold and satisfying. Warning: napkins are mandatory!"
         }
       ]
     },
@@ -33,7 +55,18 @@
           "description": "Thick, creamy, and packed with real mangoes! Perfect for a refreshing tropical vibe.",
           "on_sale": 3.99,
           "meal_type": "breakfast",
-          "day": [0, 1, 2, 3]
+          "day": [0, 1, 2, 3],
+          "ingredients": "Mango, Yogurt, Honey, Ice",
+          "nutrition": {
+            "energy_kj": 500,
+            "energy_kcal": 350,
+            "fat_g": 10,
+            "carbs_g": 75,
+            "sugar_g": 60,
+            "protein_g": 6
+          },
+          "allergies": ["Milk"],
+          "extra": "Our Mango Smoothie is like a tropical vacation in a cup. Made with real mangoes, it’s thick, creamy, and bursting with natural sweetness. A touch of honey and yogurt adds richness, while the ice keeps it refreshing. Perfect for breakfast or a midday treat. One sip, and you’ll feel like you’re on a beach!"
         }
       ]
     },
@@ -47,7 +80,18 @@
           "description": "A cozy blend of black tea, warm spices, and frothy milk. Comfort in every sip!",
           "on_sale": null,
           "meal_type": "breakfast",
-          "day": [4, 5, 6]
+          "day": [4, 5, 6],
+          "ingredients": "Black tea, Cinnamon, Cardamom, Cloves, Milk, Sugar",
+          "nutrition": {
+            "energy_kj": 400,
+            "energy_kcal": 180,
+            "fat_g": 5,
+            "carbs_g": 30,
+            "sugar_g": 25,
+            "protein_g": 4
+          },
+          "allergies": ["Milk"],
+          "extra": "Our Chai Latte is the ultimate comfort drink. A blend of black tea, cinnamon, cardamom, and cloves creates a warm, spiced flavor that’s perfectly balanced with frothy milk and a hint of sugar. It’s like a cozy hug in a cup—perfect for chilly mornings or relaxing afternoons."
         }
       ]
     },
@@ -61,7 +105,18 @@
           "description": "Rich, creamy Alfredo sauce with plump, juicy shrimp over fettuccine pasta. Absolutely indulgent!",
           "on_sale": 9.49,
           "meal_type": "dinner",
-          "day": [1, 3, 5]
+          "day": [1, 3, 5],
+          "ingredients": "Shrimp, Alfredo sauce, Fettuccine pasta, Parmesan cheese, Garlic, Butter",
+          "nutrition": {
+            "energy_kj": 950,
+            "energy_kcal": 720,
+            "fat_g": 35,
+            "carbs_g": 80,
+            "sugar_g": 5,
+            "protein_g": 40
+          },
+          "allergies": ["Milk", "Shellfish", "Gluten"],
+          "extra": "Indulge in the creamy goodness of our Shrimp Alfredo. Plump, juicy shrimp are tossed in a rich, buttery Alfredo sauce and served over perfectly cooked fettuccine. Every bite is a luxurious mix of savory, creamy, and slightly nutty flavors. It’s the ultimate comfort food for pasta lovers."
         }
       ]
     },
@@ -75,7 +130,18 @@
           "description": "Tangy BBQ sauce, grilled chicken, red onions, and mozzarella cheese. A bold and tasty choice!",
           "on_sale": 10.49,
           "meal_type": "lunch",
-          "day": [0, 2, 4, 6]
+          "day": [0, 2, 4, 6],
+          "ingredients": "BBQ Sauce, Grilled Chicken, Red Onions, Mozzarella Cheese, Pizza Dough",
+          "nutrition": {
+            "energy_kj": 728,
+            "energy_kcal": 1054,
+            "fat_g": 68,
+            "carbs_g": 25,
+            "sugar_g": 48,
+            "protein_g": 548
+          },
+          "allergies": ["Egg", "Milk Protein", "Sesame", "Lactose", "Gluten", "Mustard"],
+          "extra": "Our BBQ Chicken Pizza is a flavor explosion. Tangy BBQ sauce, grilled chicken, and caramelized red onions come together under a blanket of melted mozzarella. The crust is golden and crispy, making every bite a perfect mix of sweet, smoky, and savory. It’s a pizza lover’s dream come true."
         }
       ]
     },
@@ -89,7 +155,18 @@
           "description": "Crispy, golden-fried chicken strips served with your choice of dipping sauce. Simple, crunchy, and addictive!",
           "on_sale": null,
           "meal_type": "lunch",
-          "day": [2, 3, 4]
+          "day": [2, 3, 4],
+          "ingredients": "Chicken breast, Flour, Egg, Bread crumbs, Oil, Spices",
+          "nutrition": {
+            "energy_kj": 900,
+            "energy_kcal": 650,
+            "fat_g": 40,
+            "carbs_g": 45,
+            "sugar_g": 2,
+            "protein_g": 50
+          },
+          "allergies": ["Egg", "Gluten"],
+          "extra": "Our Chicken Tenders are the ultimate comfort snack. Juicy chicken breast is coated in a crispy, golden crust that’s perfectly seasoned. Dip them in BBQ, honey mustard, or ranch for an extra kick. They’re simple, satisfying, and impossible to resist. Perfect for sharing—or not!"
         },
         {
           "name": "Loaded Fries",
@@ -98,7 +175,18 @@
           "description": "A mountain of crispy fries topped with melted cheese, crispy bacon bits, and drizzled with ranch. Perfect for sharing... or not!",
           "on_sale": 4.99,
           "meal_type": "dinner",
-          "day": [0, 1, 5]
+          "day": [0, 1, 5],
+          "ingredients": "Potatoes, Cheese, Bacon, Ranch sauce, Spices",
+          "nutrition": {
+            "energy_kj": 1100,
+            "energy_kcal": 900,
+            "fat_g": 50,
+            "carbs_g": 85,
+            "sugar_g": 8,
+            "protein_g": 30
+          },
+          "allergies": ["Milk"],
+          "extra": "Our Loaded Fries are the ultimate indulgence. Crispy fries are smothered in melted cheese, topped with crispy bacon bits, and drizzled with creamy ranch. It’s a flavor-packed snack that’s perfect for sharing—or keeping all to yourself. Warning: highly addictive!"
         },
         {
           "name": "Mozzarella Sticks",
@@ -107,16 +195,18 @@
           "description": "Golden-fried mozzarella sticks with gooey cheese inside, served with marinara sauce. A must-have snack!",
           "on_sale": null,
           "meal_type": "lunch",
-          "day": [3, 5, 6]
-        },
-        {
-          "name": "Onion Rings",
-          "image": "onionrings",
-          "price": 3.99,
-          "description": "Thick-cut onion rings battered and fried to crispy perfection. Great as a side or just to snack on!",
-          "on_sale": 2.99,
-          "meal_type": "dinner",
-          "day": [1, 2, 4]
+          "day": [3, 5, 6],
+          "ingredients": "Mozzarella cheese, Bread crumbs, Egg, Flour, Marinara sauce",
+          "nutrition": {
+            "energy_kj": 800,
+            "energy_kcal": 600,
+            "fat_g": 35,
+            "carbs_g": 50,
+            "sugar_g": 5,
+            "protein_g": 25
+          },
+          "allergies": ["Milk", "Gluten", "Egg"],
+          "extra": "Crispy on the outside, gooey on the inside—our Mozzarella Sticks are a snack lover’s dream. Each stick is golden-fried to perfection, with melty mozzarella cheese inside. Dip them in zesty marinara sauce for the ultimate flavor combo. Perfect for sharing—or keeping all to yourself!"
         }
       ]
     }
