@@ -12,14 +12,14 @@
           "meal_type": "lunch",
           "day": [1, 3, 5],
           "ingredients": "Beef patty, Cheese, Lettuce, Tomato, Pickles, Bun, Signature sauce",
-          "nutrition": {
-            "energy_kj": 728,
-            "energy_kcal": 1054,
-            "fat_g": 68,
-            "carbs_g": 25,
-            "sugar_g": 48,
-            "protein_g": 548
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 728 },
+            { "name": "energy_kcal", "value": 1054 },
+            { "name": "fat_g", "value": 68 },
+            { "name": "carbs_g", "value": 25 },
+            { "name": "sugar_g", "value": 48 },
+            { "name": "protein_g", "value": 548 }
+          ],
           "allergies": ["Egg", "Milk Protein", "Sesame", "Lactose", "Gluten", "Mustard"],
           "extra": "The Classic Cheeseburger is a masterpiece of simplicity. A juicy beef patty, melted cheese, and crisp veggies are hugged by a soft, toasted bun. Our secret sauce adds the perfect tangy kick. It’s not just a burger—it’s a flavor explosion that’ll have you coming back for more. Perfect for lunch, dinner, or anytime you need a tasty pick-me-up.",
           "size_cm": "15 cm (diameter)"
@@ -33,14 +33,14 @@
           "meal_type": "dinner",
           "day": [2, 4, 6],
           "ingredients": "Beef patty, BBQ sauce, Bacon, Cheddar cheese, Lettuce, Bun",
-          "nutrition": {
-            "energy_kj": 820,
-            "energy_kcal": 1200,
-            "fat_g": 75,
-            "carbs_g": 30,
-            "sugar_g": 22,
-            "protein_g": 50
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 820 },
+            { "name": "energy_kcal", "value": 1200 },
+            { "name": "fat_g", "value": 75 },
+            { "name": "carbs_g", "value": 30 },
+            { "name": "sugar_g", "value": 22 },
+            { "name": "protein_g", "value": 50 }
+          ],
           "allergies": ["Egg", "Milk", "Gluten"],
           "extra": "The BBQ Bacon Burger is a flavor-packed adventure. Smoky BBQ sauce, crispy bacon, and sharp cheddar cheese come together on a juicy beef patty. It’s messy, indulgent, and absolutely delicious. Perfect for when you’re craving something bold and satisfying. Warning: napkins are mandatory!",
           "size_cm": "16 cm (diameter)"
@@ -59,14 +59,14 @@
           "meal_type": "breakfast",
           "day": [0, 1, 2, 3],
           "ingredients": "Mango, Yogurt, Honey, Ice",
-          "nutrition": {
-            "energy_kj": 500,
-            "energy_kcal": 350,
-            "fat_g": 10,
-            "carbs_g": 75,
-            "sugar_g": 60,
-            "protein_g": 6
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 500 },
+            { "name": "energy_kcal", "value": 350 },
+            { "name": "fat_g", "value": 10 },
+            { "name": "carbs_g", "value": 75 },
+            { "name": "sugar_g", "value": 60 },
+            { "name": "protein_g", "value": 6 }
+          ],
           "allergies": ["Milk"],
           "extra": "Our Mango Smoothie is like a tropical vacation in a cup. Made with real mangoes, it’s thick, creamy, and bursting with natural sweetness. A touch of honey and yogurt adds richness, while the ice keeps it refreshing. Perfect for breakfast or a midday treat. One sip, and you’ll feel like you’re on a beach!",
           "size_cm": "500 ml (cup size)"
@@ -85,14 +85,14 @@
           "meal_type": "breakfast",
           "day": [4, 5, 6],
           "ingredients": "Black tea, Cinnamon, Cardamom, Cloves, Milk, Sugar",
-          "nutrition": {
-            "energy_kj": 400,
-            "energy_kcal": 180,
-            "fat_g": 5,
-            "carbs_g": 30,
-            "sugar_g": 25,
-            "protein_g": 4
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 400 },
+            { "name": "energy_kcal", "value": 180 },
+            { "name": "fat_g", "value": 5 },
+            { "name": "carbs_g", "value": 30 },
+            { "name": "sugar_g", "value": 25 },
+            { "name": "protein_g", "value": 4 }
+          ],
           "allergies": ["Milk"],
           "extra": "Our Chai Latte is the ultimate comfort drink. A blend of black tea, cinnamon, cardamom, and cloves creates a warm, spiced flavor that’s perfectly balanced with frothy milk and a hint of sugar. It’s like a cozy hug in a cup—perfect for chilly mornings or relaxing afternoons.",
           "size_cm": "350 ml (cup size)"
@@ -111,14 +111,14 @@
           "meal_type": "dinner",
           "day": [1, 3, 5],
           "ingredients": "Shrimp, Alfredo sauce, Fettuccine pasta, Parmesan cheese, Garlic, Butter",
-          "nutrition": {
-            "energy_kj": 950,
-            "energy_kcal": 720,
-            "fat_g": 35,
-            "carbs_g": 80,
-            "sugar_g": 5,
-            "protein_g": 40
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 720 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 40 }
+          ],
           "allergies": ["Milk", "Shellfish", "Gluten"],
           "extra": "Indulge in the creamy goodness of our Shrimp Alfredo. Plump, juicy shrimp are tossed in a rich, buttery Alfredo sauce and served over perfectly cooked fettuccine. Every bite is a luxurious mix of savory, creamy, and slightly nutty flavors. It’s the ultimate comfort food for pasta lovers.",
           "size_cm": "25 cm (plate diameter)"
@@ -137,14 +137,14 @@
           "meal_type": "lunch",
           "day": [0, 2, 4, 6],
           "ingredients": "BBQ Sauce, Grilled Chicken, Red Onions, Mozzarella Cheese, Pizza Dough",
-          "nutrition": {
-            "energy_kj": 728,
-            "energy_kcal": 1054,
-            "fat_g": 68,
-            "carbs_g": 25,
-            "sugar_g": 48,
-            "protein_g": 548
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 728 },
+            { "name": "energy_kcal", "value": 1054 },
+            { "name": "fat_g", "value": 68 },
+            { "name": "carbs_g", "value": 25 },
+            { "name": "sugar_g", "value": 48 },
+            { "name": "protein_g", "value": 548 }
+          ],
           "allergies": ["Egg", "Milk Protein", "Sesame", "Lactose", "Gluten", "Mustard"],
           "extra": "Our BBQ Chicken Pizza is a flavor explosion. Tangy BBQ sauce, grilled chicken, and caramelized red onions come together under a blanket of melted mozzarella. The crust is golden and crispy, making every bite a perfect mix of sweet, smoky, and savory. It’s a pizza lover’s dream come true.",
           "size_cm": "30 cm (diameter)"
@@ -163,14 +163,14 @@
           "meal_type": "lunch",
           "day": [2, 3, 4],
           "ingredients": "Chicken breast, Flour, Egg, Bread crumbs, Oil, Spices",
-          "nutrition": {
-            "energy_kj": 900,
-            "energy_kcal": 650,
-            "fat_g": 40,
-            "carbs_g": 45,
-            "sugar_g": 2,
-            "protein_g": 50
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 900 },
+            { "name": "energy_kcal", "value": 650 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 45 },
+            { "name": "sugar_g", "value": 2 },
+            { "name": "protein_g", "value": 50 }
+          ],
           "allergies": ["Egg", "Gluten"],
           "extra": "Our Chicken Tenders are the ultimate comfort snack. Juicy chicken breast is coated in a crispy, golden crust that’s perfectly seasoned. Dip them in BBQ, honey mustard, or ranch for an extra kick. They’re simple, satisfying, and impossible to resist. Perfect for sharing—or not!",
           "size_cm": "12 cm (length)"
@@ -184,14 +184,14 @@
           "meal_type": "dinner",
           "day": [0, 1, 5],
           "ingredients": "Potatoes, Cheese, Bacon, Ranch sauce, Spices",
-          "nutrition": {
-            "energy_kj": 1100,
-            "energy_kcal": 900,
-            "fat_g": 50,
-            "carbs_g": 85,
-            "sugar_g": 8,
-            "protein_g": 30
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 900 },
+            { "name": "fat_g", "value": 50 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 30 }
+          ],
           "allergies": ["Milk"],
           "extra": "Our Loaded Fries are the ultimate indulgence. Crispy fries are smothered in melted cheese, topped with crispy bacon bits, and drizzled with creamy ranch. It’s a flavor-packed snack that’s perfect for sharing—or keeping all to yourself. Warning: highly addictive!",
           "size_cm": "20 cm (serving length)"
@@ -205,14 +205,14 @@
           "meal_type": "lunch",
           "day": [3, 5, 6],
           "ingredients": "Mozzarella cheese, Bread crumbs, Egg, Flour, Marinara sauce",
-          "nutrition": {
-            "energy_kj": 800,
-            "energy_kcal": 600,
-            "fat_g": 35,
-            "carbs_g": 50,
-            "sugar_g": 5,
-            "protein_g": 25
-          },
+          "nutrition": [
+            { "name": "energy_kj", "value": 800 },
+            { "name": "energy_kcal", "value": 600 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 25 }
+          ],
           "allergies": ["Milk", "Gluten", "Egg"],
           "extra": "Crispy on the outside, gooey on the inside—our Mozzarella Sticks are a snack lover’s dream. Each stick is golden-fried to perfection, with melty mozzarella cheese inside. Dip them in zesty marinara sauce for the ultimate flavor combo. Perfect for sharing—or keeping all to yourself!",
           "size_cm": "10 cm (length)"
