@@ -44,6 +44,402 @@
           "allergies": ["Egg", "Milk", "Gluten"],
           "extra": "The BBQ Bacon Burger is a flavor-packed adventure. Smoky BBQ sauce, crispy bacon, and sharp cheddar cheese come together on a juicy beef patty. It’s messy, indulgent, and absolutely delicious. Perfect for when you’re craving something bold and satisfying. Warning: napkins are mandatory!",
           "size_cm": "16 cm (diameter)"
+        },{
+          "name": "Mushroom Swiss Burger",
+          "image": "mushroomswissburger",
+          "price": 7.99,
+          "description": "Sautéed mushrooms, melted Swiss cheese, and a juicy beef patty on a toasted bun. Earthy and indulgent!",
+          "on_sale": 6.99,
+          "meal_type": "lunch",
+          "day": [1, 4, 6],
+          "ingredients": "Beef patty, Swiss cheese, Mushrooms, Caramelized onions, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 750 },
+            { "name": "energy_kcal", "value": 1100 },
+            { "name": "fat_g", "value": 70 },
+            { "name": "carbs_g", "value": 28 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 55 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Mushroom Swiss Burger is a gourmet delight. Sautéed mushrooms and caramelized onions add a rich, earthy flavor, while melted Swiss cheese brings it all together. Perfect for when you’re craving something hearty and satisfying.",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "Spicy Jalapeño Burger",
+          "image": "spicyjalapenoburger",
+          "price": 6.49,
+          "description": "For heat lovers! A beef patty topped with jalapeños, pepper jack cheese, and spicy mayo. Fire up your taste buds!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Beef patty, Pepper jack cheese, Jalapeños, Spicy mayo, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 780 },
+            { "name": "energy_kcal", "value": 1150 },
+            { "name": "fat_g", "value": 72 },
+            { "name": "carbs_g", "value": 26 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 52 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Spicy Jalapeño Burger is not for the faint of heart. Fresh jalapeños and pepper jack cheese bring the heat, while spicy mayo adds an extra kick. If you love bold flavors, this one’s for you!",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "Veggie Delight Burger",
+          "image": "veggiedelightburger",
+          "price": 5.99,
+          "description": "A plant-based patty with avocado, spinach, and a tangy vegan sauce. Healthy and delicious!",
+          "on_sale": 4.99,
+          "meal_type": "lunch",
+          "day": [2, 4, 6],
+          "ingredients": "Veggie patty, Avocado, Spinach, Vegan sauce, Tomato, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 600 },
+            { "name": "energy_kcal", "value": 900 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 35 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Soy", "Gluten"],
+          "extra": "The Veggie Delight Burger is a guilt-free treat. A flavorful veggie patty is topped with creamy avocado, fresh spinach, and a tangy vegan sauce. Perfect for vegetarians and health-conscious eaters!",
+          "size_cm": "14 cm (diameter)"
+        },
+        {
+          "name": "Double Trouble Burger",
+          "image": "doubletroubleburger",
+          "price": 8.99,
+          "description": "Double the beef, double the cheese, double the flavor! A meat lover’s dream.",
+          "on_sale": 7.99,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "2x Beef patty, 2x Cheddar cheese, Lettuce, Tomato, Pickles, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 1400 },
+            { "name": "fat_g", "value": 85 },
+            { "name": "carbs_g", "value": 30 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 70 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Double Trouble Burger is a beast of a meal. Two juicy beef patties, double cheddar cheese, and all the classic toppings make this a must-try for anyone who loves a hearty burger. Warning: you might need two hands for this one!",
+          "size_cm": "18 cm (diameter)"
+        },
+        {
+          "name": "Hawaiian Teriyaki Burger",
+          "image": "hawaiianteriyakiburger",
+          "price": 7.49,
+          "description": "Sweet and savory! A beef patty glazed with teriyaki sauce, topped with grilled pineapple and crispy bacon.",
+          "on_sale": null,
+          "meal_type": "lunch",
+          "day": [2, 4, 6],
+          "ingredients": "Beef patty, Teriyaki sauce, Grilled pineapple, Bacon, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 800 },
+            { "name": "energy_kcal", "value": 1180 },
+            { "name": "fat_g", "value": 68 },
+            { "name": "carbs_g", "value": 32 },
+            { "name": "sugar_g", "value": 18 },
+            { "name": "protein_g", "value": 54 }
+          ],
+          "allergies": ["Gluten", "Soy"],
+          "extra": "The Hawaiian Teriyaki Burger is a tropical twist on a classic. Sweet teriyaki glaze, juicy grilled pineapple, and crispy bacon create a flavor explosion that’ll transport you to the islands. Aloha!",
+          "size_cm": "16 cm (diameter)"
+        },
+        {
+          "name": "Truffle Butter Burger",
+          "image": "trufflebutterburger",
+          "price": 9.99,
+          "description": "Indulge in luxury! A beef patty topped with truffle butter, arugula, and shaved Parmesan. Sophisticated and delicious.",
+          "on_sale": 8.99,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Beef patty, Truffle butter, Arugula, Parmesan, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 850 },
+            { "name": "energy_kcal", "value": 1250 },
+            { "name": "fat_g", "value": 75 },
+            { "name": "carbs_g", "value": 28 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 58 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Truffle Butter Burger is a gourmet experience. Rich truffle butter, peppery arugula, and shaved Parmesan elevate this burger to a whole new level. Perfect for a fancy night out—or in!",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "Breakfast Burger",
+          "image": "breakfastburger",
+          "price": 6.99,
+          "description": "Breakfast meets burger! A beef patty topped with a fried egg, crispy bacon, and melted cheddar. Morning perfection.",
+          "on_sale": null,
+          "meal_type": "breakfast",
+          "day": [1, 2, 3, 4, 5, 6, 7],
+          "ingredients": "Beef patty, Fried egg, Bacon, Cheddar cheese, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 820 },
+            { "name": "energy_kcal", "value": 1200 },
+            { "name": "fat_g", "value": 70 },
+            { "name": "carbs_g", "value": 25 },
+            { "name": "sugar_g", "value": 3 },
+            { "name": "protein_g", "value": 60 }
+          ],
+          "allergies": ["Egg", "Milk", "Gluten"],
+          "extra": "The Breakfast Burger is the ultimate morning treat. A juicy beef patty, crispy bacon, a perfectly fried egg, and melted cheddar cheese make this burger a breakfast lover’s dream. Who says you can’t have burgers for breakfast?",
+          "size_cm": "15 cm (diameter)"
+        },{
+          "name": "Buffalo Blue Cheese Burger",
+          "image": "buffalobluecheeseburger",
+          "price": 7.49,
+          "description": "Spicy buffalo sauce meets tangy blue cheese. A bold flavor combo you won’t forget!",
+          "on_sale": 6.49,
+          "meal_type": "lunch",
+          "day": [2, 4, 6],
+          "ingredients": "Beef patty, Buffalo sauce, Blue cheese, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 780 },
+            { "name": "energy_kcal", "value": 1150 },
+            { "name": "fat_g", "value": 72 },
+            { "name": "carbs_g", "value": 26 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 52 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Buffalo Blue Cheese Burger is a flavor explosion. Spicy buffalo sauce and tangy blue cheese create a perfect balance of heat and creaminess. Perfect for those who love bold, adventurous flavors.",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "Guacamole Bacon Burger",
+          "image": "guacamolebaconburger",
+          "price": 7.99,
+          "description": "Creamy guacamole, crispy bacon, and a juicy beef patty. A match made in burger heaven!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "Beef patty, Guacamole, Bacon, Cheddar cheese, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 820 },
+            { "name": "energy_kcal", "value": 1200 },
+            { "name": "fat_g", "value": 75 },
+            { "name": "carbs_g", "value": 30 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 55 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Guacamole Bacon Burger is a fresh and indulgent treat. Creamy guacamole and crispy bacon add a perfect contrast of textures and flavors. It’s like a fiesta in every bite!",
+          "size_cm": "16 cm (diameter)"
+        },
+        {
+          "name": "Southern Fried Chicken Burger",
+          "image": "southernfriedchickenburger",
+          "price": 6.99,
+          "description": "Crispy fried chicken, coleslaw, and pickles on a soft bun. A Southern classic!",
+          "on_sale": 5.99,
+          "meal_type": "lunch",
+          "day": [2, 4, 6],
+          "ingredients": "Fried chicken, Coleslaw, Pickles, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 750 },
+            { "name": "energy_kcal", "value": 1100 },
+            { "name": "fat_g", "value": 65 },
+            { "name": "carbs_g", "value": 35 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Egg", "Gluten"],
+          "extra": "The Southern Fried Chicken Burger is a crispy, crunchy delight. Juicy fried chicken, tangy coleslaw, and pickles come together for a taste of the South. Perfect for when you’re craving something comforting.",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "Black Bean Veggie Burger",
+          "image": "blackbeanveggieburger",
+          "price": 5.99,
+          "description": "A hearty black bean patty with avocado, salsa, and cilantro lime sauce. Vegan and delicious!",
+          "on_sale": null,
+          "meal_type": "lunch",
+          "day": [1, 3, 5],
+          "ingredients": "Black bean patty, Avocado, Salsa, Cilantro lime sauce, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 600 },
+            { "name": "energy_kcal", "value": 900 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 35 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Soy", "Gluten"],
+          "extra": "The Black Bean Veggie Burger is a plant-based powerhouse. A flavorful black bean patty is topped with creamy avocado, zesty salsa, and a refreshing cilantro lime sauce. Perfect for vegans and burger lovers alike!",
+          "size_cm": "14 cm (diameter)"
+        },
+        {
+          "name": "Smoky Chipotle Burger",
+          "image": "smokychipotleburger",
+          "price": 7.49,
+          "description": "Smoky chipotle sauce, pepper jack cheese, and caramelized onions. A smoky, spicy delight!",
+          "on_sale": 6.49,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Beef patty, Chipotle sauce, Pepper jack cheese, Caramelized onions, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 780 },
+            { "name": "energy_kcal", "value": 1150 },
+            { "name": "fat_g", "value": 72 },
+            { "name": "carbs_g", "value": 26 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 52 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Smoky Chipotle Burger is a flavor-packed adventure. Smoky chipotle sauce, spicy pepper jack cheese, and sweet caramelized onions create a perfect balance of flavors. Perfect for spice lovers!",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "BBQ Pulled Pork Burger",
+          "image": "bbqpulledporkburger",
+          "price": 8.99,
+          "description": "Tender pulled pork smothered in BBQ sauce, topped with coleslaw. A Southern favorite!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Pulled pork, BBQ sauce, Coleslaw, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 850 },
+            { "name": "energy_kcal", "value": 1250 },
+            { "name": "fat_g", "value": 75 },
+            { "name": "carbs_g", "value": 30 },
+            { "name": "sugar_g", "value": 20 },
+            { "name": "protein_g", "value": 50 }
+          ],
+          "allergies": ["Gluten"],
+          "extra": "The BBQ Pulled Pork Burger is a Southern classic. Tender pulled pork, smoky BBQ sauce, and tangy coleslaw come together for a mouthwatering experience. Perfect for when you’re craving something hearty and comforting.",
+          "size_cm": "16 cm (diameter)"
+        },
+        {
+          "name": "Mediterranean Lamb Burger",
+          "image": "mediterraneanlambburger",
+          "price": 9.99,
+          "description": "Juicy lamb patty with tzatziki, feta, and fresh veggies. A taste of the Mediterranean!",
+          "on_sale": 8.99,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "Lamb patty, Tzatziki, Feta cheese, Cucumber, Tomato, Red onion, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 900 },
+            { "name": "energy_kcal", "value": 1300 },
+            { "name": "fat_g", "value": 80 },
+            { "name": "carbs_g", "value": 28 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 60 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Mediterranean Lamb Burger is a gourmet delight. A juicy lamb patty is topped with creamy tzatziki, tangy feta, and fresh veggies. It’s like a trip to the Mediterranean in every bite!",
+          "size_cm": "16 cm (diameter)"
+        }, {
+          "name": "Jalapeño Popper Burger",
+          "image": "jalapenopopperburger",
+          "price": 7.99,
+          "description": "Creamy jalapeño popper filling, crispy bacon, and a juicy beef patty. Spicy and cheesy perfection!",
+          "on_sale": 6.99,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Beef patty, Jalapeño popper filling, Bacon, Cheddar cheese, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 820 },
+            { "name": "energy_kcal", "value": 1200 },
+            { "name": "fat_g", "value": 75 },
+            { "name": "carbs_g", "value": 28 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 55 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Jalapeño Popper Burger is a spicy, cheesy dream. Creamy jalapeño popper filling and crispy bacon take this burger to the next level. Perfect for those who love a little heat with their cheese!",
+          "size_cm": "16 cm (diameter)"
+        },
+        {
+          "name": "Truffle Mushroom Swiss Burger",
+          "image": "trufflemushroomswissburger",
+          "price": 9.99,
+          "description": "Sautéed mushrooms, truffle aioli, and melted Swiss cheese. A gourmet burger experience!",
+          "on_sale": 8.99,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Beef patty, Sautéed mushrooms, Truffle aioli, Swiss cheese, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 850 },
+            { "name": "energy_kcal", "value": 1250 },
+            { "name": "fat_g", "value": 78 },
+            { "name": "carbs_g", "value": 30 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 58 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Truffle Mushroom Swiss Burger is a luxurious treat. Earthy mushrooms, rich truffle aioli, and melted Swiss cheese create a flavor combination that’s simply irresistible. Perfect for a special night out!",
+          "size_cm": "16 cm (diameter)"
+        },
+        {
+          "name": "Spicy Sriracha Chicken Burger",
+          "image": "spicysrirachachickenburger",
+          "price": 6.99,
+          "description": "Grilled chicken breast smothered in spicy sriracha mayo, topped with crispy onions. A fiery delight!",
+          "on_sale": null,
+          "meal_type": "lunch",
+          "day": [1, 3, 5],
+          "ingredients": "Grilled chicken breast, Sriracha mayo, Crispy onions, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 700 },
+            { "name": "energy_kcal", "value": 1050 },
+            { "name": "fat_g", "value": 60 },
+            { "name": "carbs_g", "value": 35 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 50 }
+          ],
+          "allergies": ["Egg", "Gluten"],
+          "extra": "The Spicy Sriracha Chicken Burger is a fiery treat. Grilled chicken breast, spicy sriracha mayo, and crispy onions create a perfect balance of heat and crunch. Perfect for spice lovers!",
+          "size_cm": "15 cm (diameter)"
+        },
+        {
+          "name": "Blue Cheese Bacon Burger",
+          "image": "bluecheesebaconburger",
+          "price": 8.49,
+          "description": "Tangy blue cheese, crispy bacon, and a juicy beef patty. A bold and indulgent combo!",
+          "on_sale": 7.49,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Beef patty, Blue cheese, Bacon, Lettuce, Tomato, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 820 },
+            { "name": "energy_kcal", "value": 1200 },
+            { "name": "fat_g", "value": 75 },
+            { "name": "carbs_g", "value": 28 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 55 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Blue Cheese Bacon Burger is a flavor powerhouse. Tangy blue cheese and crispy bacon add a perfect contrast of flavors and textures. Perfect for those who love bold, indulgent burgers!",
+          "size_cm": "16 cm (diameter)"
+        },
+        {
+          "name": "Habanero Heat Burger",
+          "image": "habaneroheatburger",
+          "price": 7.99,
+          "description": "For the brave! A beef patty topped with habanero peppers, pepper jack cheese, and spicy mayo. Extreme heat!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Beef patty, Habanero peppers, Pepper jack cheese, Spicy mayo, Lettuce, Bun",
+          "nutrition": [
+            { "name": "energy_kj", "value": 800 },
+            { "name": "energy_kcal", "value": 1180 },
+            { "name": "fat_g", "value": 72 },
+            { "name": "carbs_g", "value": 26 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 52 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Habanero Heat Burger is not for the faint of heart. Fresh habanero peppers, spicy pepper jack cheese, and fiery mayo create a burger that’s as hot as it gets. Warning: this one’s for true spice lovers only!",
+          "size_cm": "15 cm (diameter)"
         }
       ]
     },
