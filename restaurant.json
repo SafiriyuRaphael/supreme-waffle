@@ -337,7 +337,7 @@
           "extra": "The Mediterranean Lamb Burger is a gourmet delight. A juicy lamb patty is topped with creamy tzatziki, tangy feta, and fresh veggies. It’s like a trip to the Mediterranean in every bite!",
           "size_cm": "16 cm (diameter)"
         }, {
-          "name": "Jalapeño Popper Burger",
+          "name": "Jalapeno Popper Burger",
           "image": "jalapenopopperburger",
           "price": 7.99,
           "description": "Creamy jalapeño popper filling, crispy bacon, and a juicy beef patty. Spicy and cheesy perfection!",
@@ -465,6 +465,298 @@
           ],
           "allergies": ["Milk"],
           "extra": "Our Mango Smoothie is like a tropical vacation in a cup. Made with real mangoes, it’s thick, creamy, and bursting with natural sweetness. A touch of honey and yogurt adds richness, while the ice keeps it refreshing. Perfect for breakfast or a midday treat. One sip, and you’ll feel like you’re on a beach!",
+          "size_cm": "500 ml (cup size)"
+        },{
+          "name": "Strawberry Banana Smoothie",
+          "image": "strawberrybananasmoothie",
+          "price": 4.49,
+          "description": "A classic combo of strawberries and bananas, blended to creamy perfection.",
+          "on_sale": null,
+          "meal_type": "breakfast",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Strawberries, Banana, Yogurt, Honey, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 480 },
+            { "name": "energy_kcal", "value": 330 },
+            { "name": "fat_g", "value": 8 },
+            { "name": "carbs_g", "value": 70 },
+            { "name": "sugar_g", "value": 55 },
+            { "name": "protein_g", "value": 5 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Strawberry Banana Smoothie is a timeless favorite. Sweet strawberries and creamy bananas blend together for a smooth, refreshing drink. Perfect for starting your day or recharging in the afternoon.",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Tropical Pineapple Smoothie",
+          "image": "tropicalpineapplesmoothie",
+          "price": 4.99,
+          "description": "Pineapple, coconut, and a hint of lime. Taste the tropics in every sip!",
+          "on_sale": 4.49,
+          "meal_type": "breakfast",
+          "day": [2, 4, 6],
+          "ingredients": "Pineapple, Coconut milk, Lime, Honey, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 520 },
+            { "name": "energy_kcal", "value": 360 },
+            { "name": "fat_g", "value": 12 },
+            { "name": "carbs_g", "value": 68 },
+            { "name": "sugar_g", "value": 58 },
+            { "name": "protein_g", "value": 4 }
+          ],
+          "allergies": ["Coconut"],
+          "extra": "The Tropical Pineapple Smoothie is a sunny escape. Sweet pineapple, creamy coconut milk, and a hint of lime create a refreshing, tropical flavor. Perfect for when you need a little vacation in a cup.",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Classic Chocolate Shake",
+          "image": "classicchocolateshake",
+          "price": 5.49,
+          "description": "Rich, creamy, and chocolatey. A classic treat for any time of day.",
+          "on_sale": null,
+          "meal_type": "dessert",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Chocolate ice cream, Milk, Whipped cream, Chocolate syrup",
+          "nutrition": [
+            { "name": "energy_kj", "value": 800 },
+            { "name": "energy_kcal", "value": 550 },
+            { "name": "fat_g", "value": 25 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 70 },
+            { "name": "protein_g", "value": 10 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Classic Chocolate Shake is pure indulgence. Made with rich chocolate ice cream and topped with whipped cream and chocolate syrup, it’s a treat that never goes out of style. Perfect for dessert or a sweet pick-me-up.",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Vanilla Bean Milkshake",
+          "image": "vanillabeanmilkshake",
+          "price": 5.49,
+          "description": "Creamy vanilla bean goodness in every sip. Simple, smooth, and satisfying.",
+          "on_sale": 4.99,
+          "meal_type": "dessert",
+          "day": [1, 3, 5],
+          "ingredients": "Vanilla ice cream, Milk, Whipped cream, Vanilla bean",
+          "nutrition": [
+            { "name": "energy_kj", "value": 780 },
+            { "name": "energy_kcal", "value": 530 },
+            { "name": "fat_g", "value": 22 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 65 },
+            { "name": "protein_g", "value": 8 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Vanilla Bean Milkshake is a classic done right. Creamy vanilla ice cream blended with real vanilla bean creates a smooth, rich flavor. Topped with whipped cream, it’s a simple yet satisfying treat.",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Berry Blast Smoothie",
+          "image": "berryblastsmoothie",
+          "price": 4.99,
+          "description": "A mix of strawberries, blueberries, and raspberries. Bursting with berry goodness!",
+          "on_sale": null,
+          "meal_type": "breakfast",
+          "day": [0, 2, 4, 6],
+          "ingredients": "Strawberries, Blueberries, Raspberries, Yogurt, Honey, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 490 },
+            { "name": "energy_kcal", "value": 340 },
+            { "name": "fat_g", "value": 9 },
+            { "name": "carbs_g", "value": 72 },
+            { "name": "sugar_g", "value": 56 },
+            { "name": "protein_g", "value": 6 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Berry Blast Smoothie is a berry lover’s dream. Strawberries, blueberries, and raspberries come together for a refreshing, antioxidant-packed drink. Perfect for a healthy start to your day.",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Matcha Green Tea Smoothie",
+          "image": "matchagreenteasmoothie",
+          "price": 5.99,
+          "description": "Creamy matcha green tea blended with almond milk and honey. A refreshing, energizing treat!",
+          "on_sale": 5.49,
+          "meal_type": "breakfast",
+          "day": [1, 3, 5],
+          "ingredients": "Matcha powder, Almond milk, Honey, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 400 },
+            { "name": "energy_kcal", "value": 280 },
+            { "name": "fat_g", "value": 7 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 40 },
+            { "name": "protein_g", "value": 5 }
+          ],
+          "allergies": ["Tree Nuts"],
+          "extra": "The Matcha Green Tea Smoothie is a refreshing, energizing treat. Creamy matcha green tea blended with almond milk and honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
+          "size_cm": "500 ml (cup size)"
+        },{
+          "name": "Iced Caramel Macchiato",
+          "image": "icedcaramelmacchiato",
+          "price": 5.99,
+          "description": "Espresso, milk, and vanilla syrup, topped with caramel drizzle. Perfectly chilled and refreshing!",
+          "on_sale": null,
+          "meal_type": "drink",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Espresso, Milk, Vanilla syrup, Caramel drizzle, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 600 },
+            { "name": "energy_kcal", "value": 420 },
+            { "name": "fat_g", "value": 15 },
+            { "name": "carbs_g", "value": 65 },
+            { "name": "sugar_g", "value": 55 },
+            { "name": "protein_g", "value": 8 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Iced Caramel Macchiato is a coffee lover’s dream. Rich espresso, creamy milk, and sweet vanilla syrup are topped with a caramel drizzle for a perfectly balanced, refreshing drink. Perfect for a midday pick-me-up!",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Mango Lemonade",
+          "image": "mangolemonade",
+          "price": 4.49,
+          "description": "Sweet mango puree mixed with tangy lemonade. A tropical twist on a classic!",
+          "on_sale": 3.99,
+          "meal_type": "drink",
+          "day": [2, 4, 6],
+          "ingredients": "Mango puree, Lemonade, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 450 },
+            { "name": "energy_kcal", "value": 310 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 75 },
+            { "name": "sugar_g", "value": 70 },
+            { "name": "protein_g", "value": 1 }
+          ],
+          "allergies": [],
+          "extra": "The Mango Lemonade is a refreshing tropical twist on a classic. Sweet mango puree and tangy lemonade create a perfect balance of flavors. Perfect for a hot summer day!",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Strawberry Basil Lemonade",
+          "image": "strawberrybasillemonade",
+          "price": 4.99,
+          "description": "Sweet strawberries, fresh basil, and tangy lemonade. A refreshing herbal twist!",
+          "on_sale": null,
+          "meal_type": "drink",
+          "day": [1, 3, 5],
+          "ingredients": "Strawberries, Basil, Lemonade, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 470 },
+            { "name": "energy_kcal", "value": 320 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 78 },
+            { "name": "sugar_g", "value": 72 },
+            { "name": "protein_g", "value": 1 }
+          ],
+          "allergies": [],
+          "extra": "The Strawberry Basil Lemonade is a refreshing, herbal twist on a classic. Sweet strawberries and fresh basil add a unique flavor to tangy lemonade. Perfect for a sophisticated sip!",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Iced Matcha Latte",
+          "image": "icedmatchalatte",
+          "price": 5.49,
+          "description": "Creamy matcha green tea blended with milk and a touch of honey. Refreshing and energizing!",
+          "on_sale": 4.99,
+          "meal_type": "drink",
+          "day": [0, 2, 4, 6],
+          "ingredients": "Matcha powder, Milk, Honey, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 400 },
+            { "name": "energy_kcal", "value": 280 },
+            { "name": "fat_g", "value": 7 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 40 },
+            { "name": "protein_g", "value": 5 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Iced Matcha Latte is a refreshing, energizing drink. Creamy matcha green tea blended with milk and a touch of honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Blueberry Slushie",
+          "image": "blueberryslushie",
+          "price": 4.99,
+          "description": "Sweet blueberries blended into a icy, refreshing slush. Perfect for cooling down!",
+          "on_sale": null,
+          "meal_type": "drink",
+          "day": [1, 3, 5],
+          "ingredients": "Blueberries, Sugar, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 420 },
+            { "name": "energy_kcal", "value": 290 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 70 },
+            { "name": "sugar_g", "value": 65 },
+            { "name": "protein_g", "value": 1 }
+          ],
+          "allergies": [],
+          "extra": "The Blueberry Slushie is a sweet, icy treat. Fresh blueberries are blended into a refreshing slush that’s perfect for cooling down on a hot day. Simple, sweet, and satisfying!",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Peach Iced Tea",
+          "image": "peachicedtea",
+          "price": 3.99,
+          "description": "Classic iced tea with a sweet peach twist. Refreshing and fruity!",
+          "on_sale": 3.49,
+          "meal_type": "drink",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Black tea, Peach syrup, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 300 },
+            { "name": "energy_kcal", "value": 210 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 55 },
+            { "name": "sugar_g", "value": 50 },
+            { "name": "protein_g", "value": 0 }
+          ],
+          "allergies": [],
+          "extra": "The Peach Iced Tea is a refreshing, fruity twist on a classic. Sweet peach syrup adds a burst of flavor to cool, crisp iced tea. Perfect for sipping on a sunny afternoon!",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Coconut Water Cooler",
+          "image": "coconutwatercooler",
+          "price": 4.49,
+          "description": "Pure coconut water with a splash of lime. Hydrating and refreshing!",
+          "on_sale": null,
+          "meal_type": "drink",
+          "day": [2, 4, 6],
+          "ingredients": "Coconut water, Lime, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 200 },
+            { "name": "energy_kcal", "value": 140 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 35 },
+            { "name": "sugar_g", "value": 30 },
+            { "name": "protein_g", "value": 1 }
+          ],
+          "allergies": [],
+          "extra": "The Coconut Water Cooler is pure hydration. Fresh coconut water with a splash of lime creates a light, refreshing drink that’s perfect for recharging. Simple, natural, and delicious!",
+          "size_cm": "500 ml (cup size)"
+        },
+        {
+          "name": "Mint Mojito (Non-Alcoholic)",
+          "image": "mintmojito",
+          "price": 5.49,
+          "description": "Fresh mint, lime, and sparkling water. A refreshing mocktail with a zesty kick!",
+          "on_sale": 4.99,
+          "meal_type": "drink",
+          "day": [1, 3, 5],
+          "ingredients": "Fresh mint, Lime, Sparkling water, Sugar, Ice",
+          "nutrition": [
+            { "name": "energy_kj", "value": 250 },
+            { "name": "energy_kcal", "value": 180 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 45 },
+            { "name": "sugar_g", "value": 40 },
+            { "name": "protein_g", "value": 0 }
+          ],
+          "allergies": [],
+          "extra": "The Mint Mojito (Non-Alcoholic) is a refreshing mocktail with a zesty kick. Fresh mint, lime, and sparkling water create a light, fizzy drink that’s perfect for cooling down. Cheers to good vibes!",
           "size_cm": "500 ml (cup size)"
         }
       ]
