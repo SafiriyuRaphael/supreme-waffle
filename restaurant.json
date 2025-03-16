@@ -784,6 +784,236 @@
           "allergies": ["Milk"],
           "extra": "Our Chai Latte is the ultimate comfort drink. A blend of black tea, cinnamon, cardamom, and cloves creates a warm, spiced flavor that’s perfectly balanced with frothy milk and a hint of sugar. It’s like a cozy hug in a cup—perfect for chilly mornings or relaxing afternoons.",
           "size_cm": "350 ml (cup size)"
+        }, {
+          "name": "Classic Hot Chocolate",
+          "image": "classichotchocolate",
+          "price": 4.99,
+          "description": "Rich, creamy, and chocolatey. A timeless treat for any time of day.",
+          "on_sale": 4.49,
+          "meal_type": "dessert",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Milk, Cocoa powder, Sugar, Whipped cream, Chocolate shavings",
+          "nutrition": [
+            { "name": "energy_kj", "value": 600 },
+            { "name": "energy_kcal", "value": 420 },
+            { "name": "fat_g", "value": 15 },
+            { "name": "carbs_g", "value": 65 },
+            { "name": "sugar_g", "value": 55 },
+            { "name": "protein_g", "value": 8 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Classic Hot Chocolate is pure indulgence. Made with rich cocoa powder and topped with whipped cream and chocolate shavings, it’s a treat that never goes out of style. Perfect for warming up on a cold day or satisfying your sweet tooth.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "image": "caramelmacchiato",
+          "price": 5.49,
+          "description": "Espresso, steamed milk, and vanilla syrup, topped with caramel drizzle. A sweet and creamy delight!",
+          "on_sale": null,
+          "meal_type": "breakfast",
+          "day": [1, 3, 5],
+          "ingredients": "Espresso, Milk, Vanilla syrup, Caramel drizzle",
+          "nutrition": [
+            { "name": "energy_kj", "value": 500 },
+            { "name": "energy_kcal", "value": 350 },
+            { "name": "fat_g", "value": 12 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 45 },
+            { "name": "protein_g", "value": 6 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Caramel Macchiato is a coffee lover’s dream. Rich espresso, creamy steamed milk, and sweet vanilla syrup are topped with a caramel drizzle for a perfectly balanced, indulgent drink. Perfect for starting your day or enjoying as an afternoon treat.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Matcha Green Tea Latte",
+          "image": "matchagreentealatte",
+          "price": 5.99,
+          "description": "Creamy matcha green tea blended with steamed milk and a touch of honey. Energizing and soothing!",
+          "on_sale": 5.49,
+          "meal_type": "breakfast",
+          "day": [2, 4, 6],
+          "ingredients": "Matcha powder, Milk, Honey",
+          "nutrition": [
+            { "name": "energy_kj", "value": 400 },
+            { "name": "energy_kcal", "value": 280 },
+            { "name": "fat_g", "value": 7 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 40 },
+            { "name": "protein_g", "value": 5 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Matcha Green Tea Latte is a refreshing, energizing drink. Creamy matcha green tea blended with steamed milk and a touch of honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Spiced Apple Cider",
+          "image": "spicedapplecider",
+          "price": 4.99,
+          "description": "Warm apple cider infused with cinnamon, cloves, and orange zest. A fall favorite!",
+          "on_sale": null,
+          "meal_type": "dessert",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Apple cider, Cinnamon, Cloves, Orange zest",
+          "nutrition": [
+            { "name": "energy_kj", "value": 350 },
+            { "name": "energy_kcal", "value": 250 },
+            { "name": "fat_g", "value": 0 },
+            { "name": "carbs_g", "value": 60 },
+            { "name": "sugar_g", "value": 55 },
+            { "name": "protein_g", "value": 0 }
+          ],
+          "allergies": [],
+          "extra": "The Spiced Apple Cider is a fall favorite. Warm apple cider is infused with cinnamon, cloves, and orange zest for a cozy, aromatic drink. Perfect for chilly evenings or holiday gatherings.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Vanilla Rooibos Latte",
+          "image": "vanillarooiboslatte",
+          "price": 4.99,
+          "description": "Caffeine-free rooibos tea blended with steamed milk and vanilla syrup. Smooth and comforting!",
+          "on_sale": 4.49,
+          "meal_type": "breakfast",
+          "day": [1, 3, 5],
+          "ingredients": "Rooibos tea, Milk, Vanilla syrup",
+          "nutrition": [
+            { "name": "energy_kj", "value": 300 },
+            { "name": "energy_kcal", "value": 210 },
+            { "name": "fat_g", "value": 5 },
+            { "name": "carbs_g", "value": 40 },
+            { "name": "sugar_g", "value": 35 },
+            { "name": "protein_g", "value": 4 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Vanilla Rooibos Latte is a caffeine-free treat. Smooth rooibos tea is blended with steamed milk and sweet vanilla syrup for a comforting, cozy drink. Perfect for winding down in the evening.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Honey Lavender Latte",
+          "image": "honeylavenderlatte",
+          "price": 5.49,
+          "description": "Earl Grey tea infused with lavender, steamed milk, and a touch of honey. Floral and soothing!",
+          "on_sale": null,
+          "meal_type": "breakfast",
+          "day": [2, 4, 6],
+          "ingredients": "Earl Grey tea, Lavender, Milk, Honey",
+          "nutrition": [
+            { "name": "energy_kj", "value": 350 },
+            { "name": "energy_kcal", "value": 240 },
+            { "name": "fat_g", "value": 6 },
+            { "name": "carbs_g", "value": 45 },
+            { "name": "sugar_g", "value": 40 },
+            { "name": "protein_g", "value": 5 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Honey Lavender Latte is a floral, soothing treat. Earl Grey tea infused with lavender is blended with steamed milk and a touch of honey for a unique, aromatic drink. Perfect for a relaxing moment.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Turmeric Golden Milk",
+          "image": "turmericgoldenmilk",
+          "price": 5.99,
+          "description": "Warm milk infused with turmeric, ginger, and a hint of black pepper. A healing, golden drink!",
+          "on_sale": 5.49,
+          "meal_type": "breakfast",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Milk, Turmeric, Ginger, Black pepper, Honey",
+          "nutrition": [
+            { "name": "energy_kj", "value": 400 },
+            { "name": "energy_kcal", "value": 280 },
+            { "name": "fat_g", "value": 8 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 45 },
+            { "name": "protein_g", "value": 6 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Turmeric Golden Milk is a healing, golden drink. Warm milk is infused with turmeric, ginger, and a hint of black pepper for a soothing, anti-inflammatory treat. Perfect for boosting your immune system or winding down at night.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Peppermint Mocha",
+          "image": "peppermintmocha",
+          "price": 5.99,
+          "description": "Rich chocolate, espresso, and peppermint syrup. A festive, minty treat!",
+          "on_sale": null,
+          "meal_type": "dessert",
+          "day": [1, 3, 5],
+          "ingredients": "Espresso, Chocolate syrup, Peppermint syrup, Milk, Whipped cream",
+          "nutrition": [
+            { "name": "energy_kj", "value": 600 },
+            { "name": "energy_kcal", "value": 420 },
+            { "name": "fat_g", "value": 15 },
+            { "name": "carbs_g", "value": 65 },
+            { "name": "sugar_g", "value": 55 },
+            { "name": "protein_g", "value": 8 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Peppermint Mocha is a festive treat. Rich chocolate, bold espresso, and refreshing peppermint syrup come together for a minty, indulgent drink. Perfect for the holiday season or anytime you’re craving something sweet.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "Cinnamon Dolce Latte",
+          "image": "cinnamondolcelatte",
+          "price": 5.49,
+          "description": "Espresso, steamed milk, and sweet cinnamon dolce syrup. A warm, spiced delight!",
+          "on_sale": 4.99,
+          "meal_type": "breakfast",
+          "day": [2, 4, 6],
+          "ingredients": "Espresso, Milk, Cinnamon dolce syrup, Whipped cream, Cinnamon sprinkle",
+          "nutrition": [
+            { "name": "energy_kj", "value": 500 },
+            { "name": "energy_kcal", "value": 350 },
+            { "name": "fat_g", "value": 12 },
+            { "name": "carbs_g", "value": 50 },
+            { "name": "sugar_g", "value": 45 },
+            { "name": "protein_g", "value": 6 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The Cinnamon Dolce Latte is a warm, spiced delight. Bold espresso, creamy steamed milk, and sweet cinnamon dolce syrup create a comforting, aromatic drink. Topped with whipped cream and a sprinkle of cinnamon, it’s perfect for chilly mornings.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "London Fog",
+          "image": "londonfog",
+          "price": 4.99,
+          "description": "Earl Grey tea, steamed milk, and vanilla syrup. A sophisticated, creamy tea latte!",
+          "on_sale": null,
+          "meal_type": "breakfast",
+          "day": [1, 3, 5],
+          "ingredients": "Earl Grey tea, Milk, Vanilla syrup",
+          "nutrition": [
+            { "name": "energy_kj", "value": 300 },
+            { "name": "energy_kcal", "value": 210 },
+            { "name": "fat_g", "value": 5 },
+            { "name": "carbs_g", "value": 40 },
+            { "name": "sugar_g", "value": 35 },
+            { "name": "protein_g", "value": 4 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The London Fog is a sophisticated tea latte. Earl Grey tea is blended with steamed milk and sweet vanilla syrup for a creamy, aromatic drink. Perfect for tea lovers looking for something cozy and comforting.",
+          "size_cm": "350 ml (cup size)"
+        },
+        {
+          "name": "White Chocolate Mocha",
+          "image": "whitechocolatemocha",
+          "price": 5.99,
+          "description": "Espresso, steamed milk, and white chocolate sauce. A sweet, creamy indulgence!",
+          "on_sale": 5.49,
+          "meal_type": "dessert",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Espresso, Milk, White chocolate sauce, Whipped cream",
+          "nutrition": [
+            { "name": "energy_kj", "value": 600 },
+            { "name": "energy_kcal", "value": 420 },
+            { "name": "fat_g", "value": 15 },
+            { "name": "carbs_g", "value": 65 },
+            { "name": "sugar_g", "value": 55 },
+            { "name": "protein_g", "value": 8 }
+          ],
+          "allergies": ["Milk"],
+          "extra": "The White Chocolate Mocha is a sweet, creamy indulgence. Bold espresso, steamed milk, and rich white chocolate sauce create a decadent drink. Topped with whipped cream, it’s perfect for satisfying your sweet tooth.",
+          "size_cm": "350 ml (cup size)"
         }
       ]
     },
