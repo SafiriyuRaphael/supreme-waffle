@@ -444,7 +444,7 @@
       ]
     },
     {
-      "name": "Cold Drinks",
+      "name": "Cold breakfasts",
       "items": [
         {
           "name": "Mango Smoothie",
@@ -484,7 +484,7 @@
             { "name": "protein_g", "value": 5 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Strawberry Banana Smoothie is a timeless favorite. Sweet strawberries and creamy bananas blend together for a smooth, refreshing drink. Perfect for starting your day or recharging in the afternoon.",
+          "extra": "The Strawberry Banana Smoothie is a timeless favorite. Sweet strawberries and creamy bananas blend together for a smooth, refreshing breakfast. Perfect for starting your day or recharging in the afternoon.",
           "size_cm": "500 ml (cup size)"
         },
         {
@@ -514,7 +514,7 @@
           "price": 5.49,
           "description": "Rich, creamy, and chocolatey. A classic treat for any time of day.",
           "on_sale": null,
-          "meal_type": "dessert",
+          "meal_type": "dinner",
           "day": [0, 1, 2, 3, 4, 5, 6],
           "ingredients": "Chocolate ice cream, Milk, Whipped cream, Chocolate syrup",
           "nutrition": [
@@ -526,7 +526,7 @@
             { "name": "protein_g", "value": 10 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Classic Chocolate Shake is pure indulgence. Made with rich chocolate ice cream and topped with whipped cream and chocolate syrup, it’s a treat that never goes out of style. Perfect for dessert or a sweet pick-me-up.",
+          "extra": "The Classic Chocolate Shake is pure indulgence. Made with rich chocolate ice cream and topped with whipped cream and chocolate syrup, it’s a treat that never goes out of style. Perfect for dinner or a sweet pick-me-up.",
           "size_cm": "500 ml (cup size)"
         },
         {
@@ -535,7 +535,7 @@
           "price": 5.49,
           "description": "Creamy vanilla bean goodness in every sip. Simple, smooth, and satisfying.",
           "on_sale": 4.99,
-          "meal_type": "dessert",
+          "meal_type": "dinner",
           "day": [1, 3, 5],
           "ingredients": "Vanilla ice cream, Milk, Whipped cream, Vanilla bean",
           "nutrition": [
@@ -568,7 +568,7 @@
             { "name": "protein_g", "value": 6 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Berry Blast Smoothie is a berry lover’s dream. Strawberries, blueberries, and raspberries come together for a refreshing, antioxidant-packed drink. Perfect for a healthy start to your day.",
+          "extra": "The Berry Blast Smoothie is a berry lover’s dream. Strawberries, blueberries, and raspberries come together for a refreshing, antioxidant-packed breakfast. Perfect for a healthy start to your day.",
           "size_cm": "500 ml (cup size)"
         },
         {
@@ -597,7 +597,7 @@
           "price": 5.99,
           "description": "Espresso, milk, and vanilla syrup, topped with caramel drizzle. Perfectly chilled and refreshing!",
           "on_sale": null,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [0, 1, 2, 3, 4, 5, 6],
           "ingredients": "Espresso, Milk, Vanilla syrup, Caramel drizzle, Ice",
           "nutrition": [
@@ -609,7 +609,7 @@
             { "name": "protein_g", "value": 8 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Iced Caramel Macchiato is a coffee lover’s dream. Rich espresso, creamy milk, and sweet vanilla syrup are topped with a caramel drizzle for a perfectly balanced, refreshing drink. Perfect for a midday pick-me-up!",
+          "extra": "The Iced Caramel Macchiato is a coffee lover’s dream. Rich espresso, creamy milk, and sweet vanilla syrup are topped with a caramel drizzle for a perfectly balanced, refreshing breakfast. Perfect for a midday pick-me-up!",
           "size_cm": "500 ml (cup size)"
         },
         {
@@ -618,7 +618,7 @@
           "price": 4.49,
           "description": "Sweet mango puree mixed with tangy lemonade. A tropical twist on a classic!",
           "on_sale": 3.99,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [2, 4, 6],
           "ingredients": "Mango puree, Lemonade, Ice",
           "nutrition": [
@@ -639,7 +639,7 @@
           "price": 4.99,
           "description": "Sweet strawberries, fresh basil, and tangy lemonade. A refreshing herbal twist!",
           "on_sale": null,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [1, 3, 5],
           "ingredients": "Strawberries, Basil, Lemonade, Ice",
           "nutrition": [
@@ -660,7 +660,7 @@
           "price": 5.49,
           "description": "Creamy matcha green tea blended with milk and a touch of honey. Refreshing and energizing!",
           "on_sale": 4.99,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [0, 2, 4, 6],
           "ingredients": "Matcha powder, Milk, Honey, Ice",
           "nutrition": [
@@ -672,7 +672,7 @@
             { "name": "protein_g", "value": 5 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Iced Matcha Latte is a refreshing, energizing drink. Creamy matcha green tea blended with milk and a touch of honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
+          "extra": "The Iced Matcha Latte is a refreshing, energizing breakfast. Creamy matcha green tea blended with milk and a touch of honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
           "size_cm": "500 ml (cup size)"
         },
         {
@@ -681,7 +681,7 @@
           "price": 4.99,
           "description": "Sweet blueberries blended into a icy, refreshing slush. Perfect for cooling down!",
           "on_sale": null,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [1, 3, 5],
           "ingredients": "Blueberries, Sugar, Ice",
           "nutrition": [
@@ -702,7 +702,7 @@
           "price": 3.99,
           "description": "Classic iced tea with a sweet peach twist. Refreshing and fruity!",
           "on_sale": 3.49,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [0, 1, 2, 3, 4, 5, 6],
           "ingredients": "Black tea, Peach syrup, Ice",
           "nutrition": [
@@ -723,7 +723,7 @@
           "price": 4.49,
           "description": "Pure coconut water with a splash of lime. Hydrating and refreshing!",
           "on_sale": null,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [2, 4, 6],
           "ingredients": "Coconut water, Lime, Ice",
           "nutrition": [
@@ -735,7 +735,7 @@
             { "name": "protein_g", "value": 1 }
           ],
           "allergies": [],
-          "extra": "The Coconut Water Cooler is pure hydration. Fresh coconut water with a splash of lime creates a light, refreshing drink that’s perfect for recharging. Simple, natural, and delicious!",
+          "extra": "The Coconut Water Cooler is pure hydration. Fresh coconut water with a splash of lime creates a light, refreshing breakfast that’s perfect for recharging. Simple, natural, and delicious!",
           "size_cm": "500 ml (cup size)"
         },
         {
@@ -744,7 +744,7 @@
           "price": 5.49,
           "description": "Fresh mint, lime, and sparkling water. A refreshing mocktail with a zesty kick!",
           "on_sale": 4.99,
-          "meal_type": "drink",
+          "meal_type": "breakfast",
           "day": [1, 3, 5],
           "ingredients": "Fresh mint, Lime, Sparkling water, Sugar, Ice",
           "nutrition": [
@@ -756,13 +756,13 @@
             { "name": "protein_g", "value": 0 }
           ],
           "allergies": [],
-          "extra": "The Mint Mojito (Non-Alcoholic) is a refreshing mocktail with a zesty kick. Fresh mint, lime, and sparkling water create a light, fizzy drink that’s perfect for cooling down. Cheers to good vibes!",
+          "extra": "The Mint Mojito (Non-Alcoholic) is a refreshing mocktail with a zesty kick. Fresh mint, lime, and sparkling water create a light, fizzy breakfast that’s perfect for cooling down. Cheers to good vibes!",
           "size_cm": "500 ml (cup size)"
         }
       ]
     },
     {
-      "name": "Hot Drinks",
+      "name": "Hot breakfasts",
       "items": [
         {
           "name": "Chai Latte",
@@ -782,7 +782,7 @@
             { "name": "protein_g", "value": 4 }
           ],
           "allergies": ["Milk"],
-          "extra": "Our Chai Latte is the ultimate comfort drink. A blend of black tea, cinnamon, cardamom, and cloves creates a warm, spiced flavor that’s perfectly balanced with frothy milk and a hint of sugar. It’s like a cozy hug in a cup—perfect for chilly mornings or relaxing afternoons.",
+          "extra": "Our Chai Latte is the ultimate comfort breakfast. A blend of black tea, cinnamon, cardamom, and cloves creates a warm, spiced flavor that’s perfectly balanced with frothy milk and a hint of sugar. It’s like a cozy hug in a cup—perfect for chilly mornings or relaxing afternoons.",
           "size_cm": "350 ml (cup size)"
         }, {
           "name": "Classic Hot Chocolate",
@@ -790,7 +790,7 @@
           "price": 4.99,
           "description": "Rich, creamy, and chocolatey. A timeless treat for any time of day.",
           "on_sale": 4.49,
-          "meal_type": "dessert",
+          "meal_type": "dinner",
           "day": [0, 1, 2, 3, 4, 5, 6],
           "ingredients": "Milk, Cocoa powder, Sugar, Whipped cream, Chocolate shavings",
           "nutrition": [
@@ -823,7 +823,7 @@
             { "name": "protein_g", "value": 6 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Caramel Macchiato is a coffee lover’s dream. Rich espresso, creamy steamed milk, and sweet vanilla syrup are topped with a caramel drizzle for a perfectly balanced, indulgent drink. Perfect for starting your day or enjoying as an afternoon treat.",
+          "extra": "The Caramel Macchiato is a coffee lover’s dream. Rich espresso, creamy steamed milk, and sweet vanilla syrup are topped with a caramel drizzle for a perfectly balanced, indulgent breakfast. Perfect for starting your day or enjoying as an afternoon treat.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -844,7 +844,7 @@
             { "name": "protein_g", "value": 5 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Matcha Green Tea Latte is a refreshing, energizing drink. Creamy matcha green tea blended with steamed milk and a touch of honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
+          "extra": "The Matcha Green Tea Latte is a refreshing, energizing breakfast. Creamy matcha green tea blended with steamed milk and a touch of honey creates a smooth, slightly sweet flavor. Perfect for a healthy boost any time of day.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -853,7 +853,7 @@
           "price": 4.99,
           "description": "Warm apple cider infused with cinnamon, cloves, and orange zest. A fall favorite!",
           "on_sale": null,
-          "meal_type": "dessert",
+          "meal_type": "dinner",
           "day": [0, 1, 2, 3, 4, 5, 6],
           "ingredients": "Apple cider, Cinnamon, Cloves, Orange zest",
           "nutrition": [
@@ -865,7 +865,7 @@
             { "name": "protein_g", "value": 0 }
           ],
           "allergies": [],
-          "extra": "The Spiced Apple Cider is a fall favorite. Warm apple cider is infused with cinnamon, cloves, and orange zest for a cozy, aromatic drink. Perfect for chilly evenings or holiday gatherings.",
+          "extra": "The Spiced Apple Cider is a fall favorite. Warm apple cider is infused with cinnamon, cloves, and orange zest for a cozy, aromatic breakfast. Perfect for chilly evenings or holiday gatherings.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -886,7 +886,7 @@
             { "name": "protein_g", "value": 4 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Vanilla Rooibos Latte is a caffeine-free treat. Smooth rooibos tea is blended with steamed milk and sweet vanilla syrup for a comforting, cozy drink. Perfect for winding down in the evening.",
+          "extra": "The Vanilla Rooibos Latte is a caffeine-free treat. Smooth rooibos tea is blended with steamed milk and sweet vanilla syrup for a comforting, cozy breakfast. Perfect for winding down in the evening.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -907,14 +907,14 @@
             { "name": "protein_g", "value": 5 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Honey Lavender Latte is a floral, soothing treat. Earl Grey tea infused with lavender is blended with steamed milk and a touch of honey for a unique, aromatic drink. Perfect for a relaxing moment.",
+          "extra": "The Honey Lavender Latte is a floral, soothing treat. Earl Grey tea infused with lavender is blended with steamed milk and a touch of honey for a unique, aromatic breakfast. Perfect for a relaxing moment.",
           "size_cm": "350 ml (cup size)"
         },
         {
           "name": "Turmeric Golden Milk",
           "image": "turmericgoldenmilk",
           "price": 5.99,
-          "description": "Warm milk infused with turmeric, ginger, and a hint of black pepper. A healing, golden drink!",
+          "description": "Warm milk infused with turmeric, ginger, and a hint of black pepper. A healing, golden breakfast!",
           "on_sale": 5.49,
           "meal_type": "breakfast",
           "day": [0, 1, 2, 3, 4, 5, 6],
@@ -928,7 +928,7 @@
             { "name": "protein_g", "value": 6 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Turmeric Golden Milk is a healing, golden drink. Warm milk is infused with turmeric, ginger, and a hint of black pepper for a soothing, anti-inflammatory treat. Perfect for boosting your immune system or winding down at night.",
+          "extra": "The Turmeric Golden Milk is a healing, golden breakfast. Warm milk is infused with turmeric, ginger, and a hint of black pepper for a soothing, anti-inflammatory treat. Perfect for boosting your immune system or winding down at night.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -937,7 +937,7 @@
           "price": 5.99,
           "description": "Rich chocolate, espresso, and peppermint syrup. A festive, minty treat!",
           "on_sale": null,
-          "meal_type": "dessert",
+          "meal_type": "dinner",
           "day": [1, 3, 5],
           "ingredients": "Espresso, Chocolate syrup, Peppermint syrup, Milk, Whipped cream",
           "nutrition": [
@@ -949,7 +949,7 @@
             { "name": "protein_g", "value": 8 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Peppermint Mocha is a festive treat. Rich chocolate, bold espresso, and refreshing peppermint syrup come together for a minty, indulgent drink. Perfect for the holiday season or anytime you’re craving something sweet.",
+          "extra": "The Peppermint Mocha is a festive treat. Rich chocolate, bold espresso, and refreshing peppermint syrup come together for a minty, indulgent breakfast. Perfect for the holiday season or anytime you’re craving something sweet.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -970,7 +970,7 @@
             { "name": "protein_g", "value": 6 }
           ],
           "allergies": ["Milk"],
-          "extra": "The Cinnamon Dolce Latte is a warm, spiced delight. Bold espresso, creamy steamed milk, and sweet cinnamon dolce syrup create a comforting, aromatic drink. Topped with whipped cream and a sprinkle of cinnamon, it’s perfect for chilly mornings.",
+          "extra": "The Cinnamon Dolce Latte is a warm, spiced delight. Bold espresso, creamy steamed milk, and sweet cinnamon dolce syrup create a comforting, aromatic breakfast. Topped with whipped cream and a sprinkle of cinnamon, it’s perfect for chilly mornings.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -991,7 +991,7 @@
             { "name": "protein_g", "value": 4 }
           ],
           "allergies": ["Milk"],
-          "extra": "The London Fog is a sophisticated tea latte. Earl Grey tea is blended with steamed milk and sweet vanilla syrup for a creamy, aromatic drink. Perfect for tea lovers looking for something cozy and comforting.",
+          "extra": "The London Fog is a sophisticated tea latte. Earl Grey tea is blended with steamed milk and sweet vanilla syrup for a creamy, aromatic breakfast. Perfect for tea lovers looking for something cozy and comforting.",
           "size_cm": "350 ml (cup size)"
         },
         {
@@ -1000,7 +1000,7 @@
           "price": 5.99,
           "description": "Espresso, steamed milk, and white chocolate sauce. A sweet, creamy indulgence!",
           "on_sale": 5.49,
-          "meal_type": "dessert",
+          "meal_type": "dinner",
           "day": [0, 1, 2, 3, 4, 5, 6],
           "ingredients": "Espresso, Milk, White chocolate sauce, Whipped cream",
           "nutrition": [
@@ -1012,7 +1012,7 @@
             { "name": "protein_g", "value": 8 }
           ],
           "allergies": ["Milk"],
-          "extra": "The White Chocolate Mocha is a sweet, creamy indulgence. Bold espresso, steamed milk, and rich white chocolate sauce create a decadent drink. Topped with whipped cream, it’s perfect for satisfying your sweet tooth.",
+          "extra": "The White Chocolate Mocha is a sweet, creamy indulgence. Bold espresso, steamed milk, and rich white chocolate sauce create a decadent breakfast. Topped with whipped cream, it’s perfect for satisfying your sweet tooth.",
           "size_cm": "350 ml (cup size)"
         }
       ]
@@ -1039,6 +1039,445 @@
           ],
           "allergies": ["Milk", "Shellfish", "Gluten"],
           "extra": "Indulge in the creamy goodness of our Shrimp Alfredo. Plump, juicy shrimp are tossed in a rich, buttery Alfredo sauce and served over perfectly cooked fettuccine. Every bite is a luxurious mix of savory, creamy, and slightly nutty flavors. It’s the ultimate comfort food for pasta lovers.",
+          "size_cm": "25 cm (plate diameter)"
+        },  {
+          "name": "Spaghetti Carbonara",
+          "image": "spaghetticarbonara",
+          "price": 9.99,
+          "description": "Classic Roman pasta with crispy pancetta, eggs, Parmesan, and black pepper. Simple yet divine!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Spaghetti, Pancetta, Eggs, Parmesan cheese, Black pepper, Garlic",
+          "nutrition": [
+            { "name": "energy_kj", "value": 900 },
+            { "name": "energy_kcal", "value": 680 },
+            { "name": "fat_g", "value": 30 },
+            { "name": "carbs_g", "value": 75 },
+            { "name": "sugar_g", "value": 3 },
+            { "name": "protein_g", "value": 35 }
+          ],
+          "allergies": ["Egg", "Milk", "Gluten"],
+          "extra": "Our Spaghetti Carbonara is a classic Roman dish done right. Crispy pancetta, creamy egg sauce, and freshly grated Parmesan come together for a simple yet divine pasta experience. It’s comfort food at its finest.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Pesto Penne",
+          "image": "pestopenne",
+          "price": 8.99,
+          "description": "Fresh basil pesto tossed with penne pasta, cherry tomatoes, and Parmesan. Bright and flavorful!",
+          "on_sale": 7.99,
+          "meal_type": "lunch",
+          "day": [1, 3, 5],
+          "ingredients": "Penne pasta, Basil pesto, Cherry tomatoes, Parmesan cheese, Pine nuts",
+          "nutrition": [
+            { "name": "energy_kj", "value": 850 },
+            { "name": "energy_kcal", "value": 640 },
+            { "name": "fat_g", "value": 28 },
+            { "name": "carbs_g", "value": 70 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Milk", "Tree Nuts", "Gluten"],
+          "extra": "The Pesto Penne is a fresh, vibrant dish. Bright basil pesto is tossed with al dente penne pasta, sweet cherry tomatoes, and nutty Parmesan. Topped with crunchy pine nuts, it’s a burst of flavor in every bite.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Lobster Ravioli",
+          "image": "lobsterravioli",
+          "price": 14.99,
+          "description": "Homemade ravioli stuffed with succulent lobster, served in a creamy tomato bisque. Luxurious!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [4, 5, 6],
+          "ingredients": "Lobster, Ravioli pasta, Tomato bisque, Cream, Parmesan cheese, Basil",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 850 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 90 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Shellfish", "Milk", "Gluten"],
+          "extra": "The Lobster Ravioli is a luxurious treat. Homemade ravioli stuffed with succulent lobster is served in a creamy tomato bisque. Every bite is rich, indulgent, and utterly satisfying.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Vegetable Lasagna",
+          "image": "vegetablelasagna",
+          "price": 9.49,
+          "description": "Layers of pasta, roasted vegetables, and creamy béchamel sauce. A veggie lover’s dream!",
+          "on_sale": 8.49,
+          "meal_type": "dinner",
+          "day": [1, 2, 3],
+          "ingredients": "Lasagna sheets, Zucchini, Eggplant, Bell peppers, Béchamel sauce, Mozzarella cheese",
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 720 },
+            { "name": "fat_g", "value": 30 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 25 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Vegetable Lasagna is a veggie lover’s dream. Layers of pasta, roasted vegetables, and creamy béchamel sauce come together for a hearty, satisfying dish. It’s comfort food that’s both delicious and wholesome.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Spicy Arrabbiata",
+          "image": "spicyarrabbiata",
+          "price": 8.99,
+          "description": "Penne pasta in a fiery tomato sauce with garlic, chili flakes, and fresh basil. Perfect for spice lovers!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Penne pasta, Tomato sauce, Garlic, Chili flakes, Basil, Olive oil",
+          "nutrition": [
+            { "name": "energy_kj", "value": 800 },
+            { "name": "energy_kcal", "value": 600 },
+            { "name": "fat_g", "value": 20 },
+            { "name": "carbs_g", "value": 75 },
+            { "name": "sugar_g", "value": 7 },
+            { "name": "protein_g", "value": 15 }
+          ],
+          "allergies": ["Gluten"],
+          "extra": "The Spicy Arrabbiata is a fiery delight. Penne pasta is tossed in a bold tomato sauce with garlic, chili flakes, and fresh basil. It’s simple, spicy, and absolutely delicious.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Truffle Mushroom Fettuccine",
+          "image": "trufflemushroomfettuccine",
+          "price": 12.99,
+          "description": "Fettuccine pasta in a creamy truffle mushroom sauce. Earthy, rich, and indulgent!",
+          "on_sale": 11.99,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Fettuccine pasta, Mushrooms, Truffle oil, Cream, Parmesan cheese, Garlic",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1000 },
+            { "name": "energy_kcal", "value": 750 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 25 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Truffle Mushroom Fettuccine is a luxurious treat. Earthy mushrooms and rich truffle oil are blended into a creamy sauce and tossed with fettuccine pasta. Every bite is indulgent and satisfying.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Chicken Parmesan Pasta",
+          "image": "chickenparmesanpasta",
+          "price": 11.49,
+          "description": "Breaded chicken breast served over spaghetti with marinara sauce and melted mozzarella. A classic!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "Chicken breast, Spaghetti, Marinara sauce, Mozzarella cheese, Parmesan cheese, Breadcrumbs",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 850 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 90 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 50 }
+          ],
+          "allergies": ["Milk", "Egg", "Gluten"],
+          "extra": "The Chicken Parmesan Pasta is a classic Italian-American dish. Breaded chicken breast is served over spaghetti with marinara sauce and melted mozzarella. It’s hearty, cheesy, and absolutely delicious.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Seafood Linguine",
+          "image": "seafoodlinguine",
+          "price": 13.99,
+          "description": "Linguine pasta with a medley of shrimp, scallops, and clams in a white wine garlic sauce. Fresh and flavorful!",
+          "on_sale": 12.99,
+          "meal_type": "dinner",
+          "day": [4, 5, 6],
+          "ingredients": "Linguine pasta, Shrimp, Scallops, Clams, White wine, Garlic, Olive oil",
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 720 },
+            { "name": "fat_g", "value": 25 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Shellfish", "Gluten"],
+          "extra": "The Seafood Linguine is a fresh, flavorful dish. Linguine pasta is tossed with shrimp, scallops, and clams in a light white wine garlic sauce. It’s a taste of the sea in every bite.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Four Cheese Ravioli",
+          "image": "fourcheeseravioli",
+          "price": 10.99,
+          "description": "Homemade ravioli stuffed with a blend of four cheeses, served in a creamy tomato sauce. Cheesy perfection!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Ravioli pasta, Ricotta cheese, Mozzarella cheese, Parmesan cheese, Gorgonzola cheese, Tomato sauce",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1000 },
+            { "name": "energy_kcal", "value": 750 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 30 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Four Cheese Ravioli is a cheesy delight. Homemade ravioli is stuffed with a blend of ricotta, mozzarella, Parmesan, and Gorgonzola, then served in a creamy tomato sauce. It’s comfort food at its finest.",
+          "size_cm": "25 cm (plate diameter)"
+        },{
+          "name": "Cajun Chicken Pasta",
+          "image": "cajunchickenpasta",
+          "price": 11.99,
+          "description": "Spicy Cajun-seasoned chicken breast served over penne pasta in a creamy Alfredo sauce. Bold and flavorful!",
+          "on_sale": 10.99,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "Chicken breast, Penne pasta, Cajun seasoning, Alfredo sauce, Bell peppers, Onions",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 850 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 90 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 50 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Cajun Chicken Pasta is a bold, flavorful dish. Spicy Cajun-seasoned chicken breast is served over penne pasta in a creamy Alfredo sauce. It’s a perfect balance of heat and creaminess.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Spinach and Ricotta Stuffed Shells",
+          "image": "spinachricottastuffedshells",
+          "price": 9.99,
+          "description": "Jumbo pasta shells stuffed with a creamy spinach and ricotta filling, baked in marinara sauce. Comfort food at its best!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Jumbo pasta shells, Spinach, Ricotta cheese, Marinara sauce, Mozzarella cheese, Parmesan cheese",
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 720 },
+            { "name": "fat_g", "value": 30 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 7 },
+            { "name": "protein_g", "value": 25 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Spinach and Ricotta Stuffed Shells are the ultimate comfort food. Jumbo pasta shells are filled with a creamy spinach and ricotta mixture, baked in marinara sauce, and topped with melted mozzarella. It’s cheesy, hearty, and absolutely delicious.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Pumpkin Sage Ravioli",
+          "image": "pumpkinsageravioli",
+          "price": 10.99,
+          "description": "Homemade ravioli stuffed with pumpkin and ricotta, served in a brown butter sage sauce. A fall favorite!",
+          "on_sale": 9.99,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Ravioli pasta, Pumpkin, Ricotta cheese, Brown butter, Sage, Parmesan cheese",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1000 },
+            { "name": "energy_kcal", "value": 750 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Pumpkin Sage Ravioli is a fall-inspired delight. Homemade ravioli is stuffed with pumpkin and ricotta, then served in a rich brown butter sage sauce. It’s warm, comforting, and perfect for the season.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Bolognese Rigatoni",
+          "image": "bologneserigatoni",
+          "price": 10.49,
+          "description": "Hearty rigatoni pasta tossed in a rich, slow-cooked Bolognese sauce. A meat lover’s dream!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "Rigatoni pasta, Ground beef, Tomato sauce, Onions, Carrots, Celery, Parmesan cheese",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 850 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 90 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Bolognese Rigatoni is a hearty, satisfying dish. Rigatoni pasta is tossed in a rich, slow-cooked Bolognese sauce made with ground beef, tomatoes, and vegetables. It’s a classic Italian favorite.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Lemon Garlic Shrimp Linguine",
+          "image": "lemongarlicshrimplinguine",
+          "price": 12.99,
+          "description": "Linguine pasta tossed with succulent shrimp in a zesty lemon garlic sauce. Fresh and vibrant!",
+          "on_sale": 11.99,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Linguine pasta, Shrimp, Lemon, Garlic, Olive oil, Parmesan cheese, Parsley",
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 720 },
+            { "name": "fat_g", "value": 25 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 5 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Shellfish", "Gluten"],
+          "extra": "The Lemon Garlic Shrimp Linguine is a fresh, vibrant dish. Succulent shrimp are tossed with linguine pasta in a zesty lemon garlic sauce. It’s light, flavorful, and perfect for seafood lovers.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Mac and Cheese",
+          "image": "macandcheese",
+          "price": 8.99,
+          "description": "Creamy, cheesy elbow macaroni baked to perfection. A classic comfort food favorite!",
+          "on_sale": 7.99,
+          "meal_type": "dinner",
+          "day": [0, 1, 2, 3, 4, 5, 6],
+          "ingredients": "Elbow macaroni, Cheddar cheese, Milk, Butter, Flour, Breadcrumbs",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1000 },
+            { "name": "energy_kcal", "value": 750 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 25 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Mac and Cheese is the ultimate comfort food. Creamy, cheesy elbow macaroni is baked to perfection and topped with crispy breadcrumbs. It’s rich, indulgent, and absolutely delicious.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Pasta Primavera",
+          "image": "pastaprimavera",
+          "price": 9.49,
+          "description": "A colorful mix of fresh vegetables tossed with penne pasta in a light garlic olive oil sauce. Healthy and delicious!",
+          "on_sale": null,
+          "meal_type": "lunch",
+          "day": [1, 3, 5],
+          "ingredients": "Penne pasta, Zucchini, Bell peppers, Cherry tomatoes, Broccoli, Garlic, Olive oil",
+          "nutrition": [
+            { "name": "energy_kj", "value": 800 },
+            { "name": "energy_kcal", "value": 600 },
+            { "name": "fat_g", "value": 20 },
+            { "name": "carbs_g", "value": 75 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 15 }
+          ],
+          "allergies": ["Gluten"],
+          "extra": "The Pasta Primavera is a fresh, healthy dish. A colorful mix of vegetables is tossed with penne pasta in a light garlic olive oil sauce. It’s vibrant, flavorful, and perfect for a light meal.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Creamy Tomato Basil Penne",
+          "image": "creamybasilpenne",
+          "price": 9.99,
+          "description": "Penne pasta in a creamy tomato basil sauce. A comforting blend of flavors!",
+          "on_sale": 8.99,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Penne pasta, Tomato sauce, Cream, Basil, Parmesan cheese, Garlic",
+          "nutrition": [
+            { "name": "energy_kj", "value": 900 },
+            { "name": "energy_kcal", "value": 680 },
+            { "name": "fat_g", "value": 30 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 7 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Creamy Tomato Basil Penne is a comforting blend of flavors. Penne pasta is tossed in a creamy tomato basil sauce with Parmesan cheese and garlic. It’s rich, satisfying, and perfect for pasta lovers.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Pesto Gnocchi",
+          "image": "pestognocchi",
+          "price": 10.99,
+          "description": "Soft potato gnocchi tossed in fresh basil pesto. A simple yet flavorful dish!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Potato gnocchi, Basil pesto, Parmesan cheese, Pine nuts",
+          "nutrition": [
+            { "name": "energy_kj", "value": 950 },
+            { "name": "energy_kcal", "value": 720 },
+            { "name": "fat_g", "value": 28 },
+            { "name": "carbs_g", "value": 85 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Milk", "Tree Nuts", "Gluten"],
+          "extra": "The Pesto Gnocchi is a simple yet flavorful dish. Soft potato gnocchi is tossed in fresh basil pesto and topped with Parmesan cheese and pine nuts. It’s a burst of flavor in every bite.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Spicy Sausage Rigatoni",
+          "image": "spicysausagerigatoni",
+          "price": 11.49,
+          "description": "Rigatoni pasta with spicy Italian sausage in a rich tomato cream sauce. Bold and hearty!",
+          "on_sale": 10.49,
+          "meal_type": "dinner",
+          "day": [1, 3, 5],
+          "ingredients": "Rigatoni pasta, Spicy Italian sausage, Tomato sauce, Cream, Parmesan cheese, Garlic",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 850 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 90 },
+            { "name": "sugar_g", "value": 10 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Spicy Sausage Rigatoni is a bold, hearty dish. Rigatoni pasta is tossed with spicy Italian sausage in a rich tomato cream sauce. It’s a perfect balance of heat and creaminess.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Butternut Squash Ravioli",
+          "image": "butternutsquashravioli",
+          "price": 11.99,
+          "description": "Homemade ravioli stuffed with roasted butternut squash, served in a sage brown butter sauce. Sweet and savory!",
+          "on_sale": null,
+          "meal_type": "dinner",
+          "day": [2, 4, 6],
+          "ingredients": "Ravioli pasta, Butternut squash, Ricotta cheese, Brown butter, Sage, Parmesan cheese",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1000 },
+            { "name": "energy_kcal", "value": 750 },
+            { "name": "fat_g", "value": 35 },
+            { "name": "carbs_g", "value": 80 },
+            { "name": "sugar_g", "value": 6 },
+            { "name": "protein_g", "value": 20 }
+          ],
+          "allergies": ["Milk", "Gluten"],
+          "extra": "The Butternut Squash Ravioli is a sweet and savory delight. Homemade ravioli is stuffed with roasted butternut squash and ricotta, then served in a rich sage brown butter sauce. It’s a fall-inspired masterpiece.",
+          "size_cm": "25 cm (plate diameter)"
+        },
+        {
+          "name": "Cajun Shrimp Pasta",
+          "image": "cajunshrimppasta",
+          "price": 12.99,
+          "description": "Spicy Cajun-seasoned shrimp served over fettuccine pasta in a creamy Alfredo sauce. Bold and flavorful!",
+          "on_sale": 11.99,
+          "meal_type": "dinner",
+          "day": [3, 5, 7],
+          "ingredients": "Shrimp, Fettuccine pasta, Cajun seasoning, Alfredo sauce, Bell peppers, Onions",
+          "nutrition": [
+            { "name": "energy_kj", "value": 1100 },
+            { "name": "energy_kcal", "value": 850 },
+            { "name": "fat_g", "value": 40 },
+            { "name": "carbs_g", "value": 90 },
+            { "name": "sugar_g", "value": 8 },
+            { "name": "protein_g", "value": 45 }
+          ],
+          "allergies": ["Shellfish", "Milk", "Gluten"],
+          "extra": "The Cajun Shrimp Pasta is a bold, flavorful dish. Spicy Cajun-seasoned shrimp is served over fettuccine pasta in a creamy Alfredo sauce. It’s a perfect balance of heat and creaminess.",
           "size_cm": "25 cm (plate diameter)"
         }
       ]
